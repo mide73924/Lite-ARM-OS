@@ -17,7 +17,7 @@ sudo dnf install arm-none-eabi-gcc-cs arm-none-eabi-newlib
 
 ---
 
-### 2. Clone and initialize QEMU STM32 (if not done):
+### 2. Clone and initialize QEMU STM32:
 
 ```bash
 git clone https://github.com/beckus/qemu_stm32.git
